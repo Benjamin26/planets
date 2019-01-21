@@ -1,11 +1,7 @@
 also our target
-<<<<<<< HEAD
-I try to make a problem
-And yet another problem...
-=======
 
 bla-bla
 
 I try to make a problem - Oh, no!
 
->>>>>>> da9d53887db84b2c5c98d017e879850ddf238654
+I think we can both agree with these changes
